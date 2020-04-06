@@ -1,0 +1,10 @@
+easy_admin:
+    entities:
+#        # List the entity class name you want to manage
+        - App\Entity\Genre
+        - App\Entity\Nationalite
+        - App\Entity\Auteurs
+        - App\Entity\Livre
+        - App\Entity\Editeur
+
+
